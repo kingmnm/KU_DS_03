@@ -1,2 +1,1 @@
-# KU_DS_03
-Korea Univ Data Structure 03
+# K U D S 03
